@@ -1,0 +1,14 @@
+
+
+------------------------------------------------------------------------------------
+ In  UBUNTU,  Install JAVA  JDK  Software,  then  for 
+ RUNNING  "SIMULATOR  APPLICATION",  give  command  as 
+
+ java -jar coldvl-2015sepL64-2v11.jar
+ 
+ This will also work in window and mac provided u have downloaded jdk
+
+ in  TERMINAL COMMAND  PROMPT  in  TERMINAL  WINDOW.
+------------------------------------------------------------------------------------
+
+
